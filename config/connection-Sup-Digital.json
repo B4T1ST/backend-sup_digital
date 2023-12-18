@@ -1,0 +1,14 @@
+{
+  "port"       : 1433,
+  "server"    : "172.16.252.91",
+  "user"      : "app_neosyx",
+  "password"  : "N43psw399dF",
+  "database"  : "BDRechamadasGeral",
+  "stream"    : false,
+  "options": {
+    "trustedConnection"       : true,
+    "encrypt"                 : true,
+    "enableArithAbort"        : true,
+    "trustServerCertificate"  : true    
+  }
+} 

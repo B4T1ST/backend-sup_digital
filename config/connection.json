@@ -1,0 +1,14 @@
+{
+  "port"       : 1433,
+  "server"    : "35.247.231.34",
+  "user"      : "usr_neoo_gamification",
+  "password"  : "f1>}O6&`9A?_|-16&&3X", 
+  "database"  : "BDGamification",
+  "stream"    : false,
+  "options": {
+    "trustedConnection"       : true,
+    "encrypt"                 : false,
+    "enableArithAbort"        : true,
+    "trustServerCertificate"  : true    
+  }
+} 
